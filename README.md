@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Selamat datang di KiosJadi
 
-<!--
-**kiosjadi/Kiosjadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KiosJadi** adalah layanan desain & bangun kios, toko, dan ruko modern-minimalis.  
+Kami bantu warga dari gambar kerja sampai bangunan jadi, cocok buat UMKM, warung, atau usaha rumahan.
 
-Here are some ideas to get you started:
+### 🔧 Saat ini kami sedang:
+- 🚧 Membangun website pemesanan cepat
+- 🧱 Bikin sistem kerja bangunan efisien & transparan
+- 🤝 Buka kolaborasi sama tukang dan arsitek lokal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📲 Hubungi kami:
+📞 WhatsApp: [Klik di sini](https://wa.me/6288227377759)  
+🌐 Website: (dalam pengembangan)
+
+### ⚡ Fakta menarik
+> Bisa bantu bangun kios dari nol, termasuk RAB, gambar kerja, dan ide branding usaha.
+
+---
+
+💬 Butuh bantuan atau pengin kerja sama? Langsung aja WA-in broo!
